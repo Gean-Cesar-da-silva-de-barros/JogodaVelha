@@ -4,7 +4,7 @@ Um projeto simples e interativo de **Jogo da Velha (Tic-Tac-Toe)** desenvolvido 
 
 ## 🚀 Demonstração
 
-👉 Em breve disponível online
+👉 https://gean-cesar-da-silva-de-barros.github.io/JogodaVelha/
 
 ## 🧠 Funcionalidades
 
